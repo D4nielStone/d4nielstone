@@ -44,6 +44,7 @@ Focus on:
 ## Contact
 - LinkedIn
 - [Instagram](https://www.instagram.com/d4nl.draw)
+
 If you want to follow along with my projects, take a look at the repositories below.
 
 ⭐ If any project is useful or interesting to you, consider leaving a star!
