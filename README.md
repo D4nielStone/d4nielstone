@@ -1,50 +1,40 @@
-# Hello! I am Daniel 👋
+Daniel Oliveira
 
-Independent developer focused on **Web, C++, Game Development and Graphics Programming**.
+C++ developer focused on game engines, graphics programming and software systems.
 
-I'm currently building my own projects and tools, looking to understand every part of development — from low-level systems to full applications.
+Featured Projects
 
-## Projects
+Bubble Engine
 
-### [Multiplayer RPG](https://github.com/D4nielStone/3d_rpg)
+A 3D game engine written in C++, focused on rendering, assets, physics and editor tooling.
 
-A small 3D multiplayer RPG for the browser, developed from scratch.
+BGUI
 
-### [Bubble Engine](https://github.com/D4nielStone/bubble_engine)
+A C++ GUI library designed to be independent from the underlying graphics API.
 
-My own **game engine in C++**, developed as a learning and experimentation project.
+Multiplayer RPG
 
-Includes systems for:
+A browser-based multiplayer RPG using WebGL and a server-authoritative architecture.
 
-* Rendering
-* Shaders
-* Model loading
-* ECS
-* Physics
-* UI
-* Editor
-* Scripting
-* Resource management
+Todo List
 
-The goal is to build a modular engine and deeply understand how the tools used in game development work internally.
+A desktop task management application built with C++, BGUI, Crow and SQLite.
 
-### [BGUI](https://github.com/D4nielStone/cpp-bgui)
+Technologies
 
-A C++ GUI library created for my projects.
+- C++
+- CMake
+- OpenGL
+- WebGL
+- JavaScript
+- Lua
+- SQLite
+- PostgreSQL
+- Git
 
-Focus on:
+Currently Learning
 
-* Layout
-* Widgets
-* Styles
-* Implementation-independent rendering
-* Integration with OpenGL
-
-
-## Contact
-- LinkedIn
-- [Instagram](https://www.instagram.com/d4nl.draw)
-
-If you want to follow along with my projects, take a look at the repositories below.
-
-⭐ If any project is useful or interesting to you, consider leaving a star!
+- Game engine architecture
+- Graphics programming
+- Networking
+- Modern C++
