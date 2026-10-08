@@ -1,22 +1,23 @@
 Daniel Oliveira
+===
 
 C++ developer focused on game engines, graphics programming and software systems.
 
-Featured Projects
+# Featured Projects
 
-Bubble Engine
+## Bubble Engine
 
 A 3D game engine written in C++, focused on rendering, assets, physics and editor tooling.
 
-BGUI
+## BGUI
 
 A C++ GUI library designed to be independent from the underlying graphics API.
 
-Multiplayer RPG
+## Multiplayer RPG
 
 A browser-based multiplayer RPG using WebGL and a server-authoritative architecture.
 
-Todo List
+## Todo List
 
 A desktop task management application built with C++, BGUI, Crow and SQLite.
 
